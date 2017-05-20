@@ -13,5 +13,8 @@
   },
   "scripts": {
     "build": "babel src/ -d dist/ --ignore __mocks__,__tests__"
+  },
+  "dependencies": {
+    "actions-on-google": "^1.1.0"
   }
 }
