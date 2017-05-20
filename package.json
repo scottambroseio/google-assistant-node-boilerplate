@@ -16,7 +16,7 @@
   "scripts": {
     "build": "babel src/ -d dist/ --ignore __mocks__,__tests__",
     "flow": "flow src",
-    "test": "jest src"
+    "test": "jest"
   },
   "dependencies": {
     "actions-on-google": "^1.1.0"
