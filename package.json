@@ -14,7 +14,8 @@
     "jest": "^20.0.3"
   },
   "scripts": {
-    "build": "babel src/ -d dist/ --ignore __mocks__,__tests__"
+    "build": "babel src/ -d dist/ --ignore __mocks__,__tests__",
+    "flow": "flow src"
   },
   "dependencies": {
     "actions-on-google": "^1.1.0"
