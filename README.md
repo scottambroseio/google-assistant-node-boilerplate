@@ -24,6 +24,8 @@ TODO: Fill this part in
 
 `yarn run ngrok -- $PORT` (Where $PORT is replaced with the port from the output of the previous commands)
 
+![local server setup](http://i.imgur.com/MGwU6oM.png)
+
 ## Viewing logs from the local server
 
 `yarn run logs:read`
