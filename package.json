@@ -1,6 +1,6 @@
 {
   "name": "google-assistant-node-boilerplate",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Google Assistant NodeJs Boilerplate",
   "main": "dist/index.js",
   "repository": "https://github.com/scottrangerio/google-assistant-node-boilerplate.git",
