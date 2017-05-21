@@ -1,5 +1,5 @@
 // @flow
 
-module.exports  = (/*app*/) => {
+module.exports = (/*app*/) => {
   // handle first-action
 };
