@@ -6,7 +6,8 @@
   "parser": "babel-eslint",
   "extends": [
     "eslint:recommended",
-    "plugin:flowtype/recommended"
+    "plugin:flowtype/recommended",
+    "plugin:jest/recommended"
   ],
   "root": true,
   "env": {
@@ -15,6 +16,7 @@
     "es6": true
   },
   "plugins": [
-    "flowtype"
+    "flowtype",
+    "jest"
   ]
 }
