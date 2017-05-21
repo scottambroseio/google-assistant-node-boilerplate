@@ -1,3 +1,5 @@
+// @flow
+
 const firstAction = require('../first-action');
 
 describe('first-action', () => {
