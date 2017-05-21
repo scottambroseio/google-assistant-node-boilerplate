@@ -20,7 +20,7 @@
     "rimraf": "^2.6.1"
   },
   "scripts": {
-    "transpile": "babel src/ -d dist/ --ignore __mocks__,__tests__",
+    "transpile": "npm run clean && babel src/ -d dist/ --ignore __mocks__,__tests__",
     "flow": "flow src",
     "test": "jest",
     "lint": "eslint src",
